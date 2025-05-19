@@ -1,0 +1,5 @@
+torch
+ultralytics
+paddleocr
+numpy<=2.0
+protobuf>=3.20.3
