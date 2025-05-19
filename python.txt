@@ -1,0 +1,2 @@
+sudo wget https://www.python.org/ftp/python/3.8.20/Python-3.8.20.tgz
+sudo tar xzf Python-3.8.20.tgz
